@@ -1,7 +1,7 @@
 streamlit
-gpt4all
 langchain
 faiss-cpu
 PyMuPDF
 langchain_community
 langchain-huggingface
+langchain_ollama
