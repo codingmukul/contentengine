@@ -4,4 +4,4 @@ langchain
 faiss-cpu
 PyMuPDF
 sentence_transformers
-langchain_communitycls
+langchain_community
