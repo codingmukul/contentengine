@@ -1,0 +1,7 @@
+streamlit
+gpt4all
+langchain
+faiss-cpu
+PyMuPDF
+sentence_transformers
+langchain_communitycls
